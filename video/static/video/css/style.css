@@ -146,3 +146,13 @@ hr {
 	margin-bottom: 0px;
 	overflow: hidden;
 }
+
+.videowrapper{
+  display: flex;
+}
+
+@media (max-width: 767px){
+  #toptext{
+    font-size: 11px;
+  }
+}

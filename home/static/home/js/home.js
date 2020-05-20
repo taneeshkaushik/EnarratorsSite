@@ -15,9 +15,6 @@ $(function () {
         autoPlayTimeout: 5000,
         responsive: {
             // breakpoint from 0 up
-            0: {
-                items: 3
-            }
         }
     });
 })
@@ -32,8 +29,8 @@ $(function () {
         autoplayHoverPause: true,
         responsive: {
             0: { items: 1 },
-            480: { items: 2 },
-            768: { items: 3 }
+            680: { items: 2 },
+            1000: { items: 3 }
         }
     });
 })
