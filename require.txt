@@ -46,7 +46,7 @@ Parsley==1.3
 pexpect==4.2.1
 piglet==1.0.0
 piglet-templates==0.5.1
-Pillow==7.1.2
+Pillow==8.1.1
 poyo==0.5.0
 pycairo==1.19.1
 pycrypto==2.6.1
